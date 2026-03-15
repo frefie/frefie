@@ -11,7 +11,7 @@
 <ul>
   <li>Forsaken</li>
   <li>PJSK</li>
-  <li>Regretvator</li>
+  <li>Regretevator</li>
 </ul>
 <h2>Some of my favorite characters!!</h2>
 <ul>
