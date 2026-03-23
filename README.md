@@ -138,7 +138,7 @@
       <ul>
         <li>Weird people</li>
         <li>Russian ppl</li>
-        <li>People like 4-5 years older than me(i mean it in a really close friendship way)</li>
+        <li>Ehh probably more but idk for now-</li>
       </ul>
       <p>If you can't respect my boundaries then please just don't talk to me vro.. Like it isnt that hard genuinely</p>
     </td>
