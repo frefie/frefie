@@ -2,7 +2,7 @@
 <img src="https://i.pinimg.com/736x/a6/3a/78/a63a7858ae7620297e7a82cf9e78f20c.jpg" width="150" align="left">
 
 <p>I'm Frefie!! Nice to meet ya ( ˶ˆᗜˆ˵ )</p>
-<p>[introduction text or smth idk..]</p>
+<p>[can't really come up with an introduction so ill add it later ig..]</p>
 <br>
 <br>
 <br>
