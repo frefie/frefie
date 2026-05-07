@@ -85,35 +85,6 @@
     </table>
   </li>
 
-  <li>
-    <table>
-      <tr>
-        <td style="width:50px; vertical-align:top;">
-          <img src="https://i.pinimg.com/736x/86/ed/28/86ed28801c33508d11d65369fac7e346.jpg" width="50" height="50" style="object-fit:cover;">
-        </td>
-        <td style="padding-left:8px; vertical-align:top;">
-          <b>Kanade(pjsk)</b><br>
-          <p></p>
-        </td>
-      </tr>
-    </table>
-  </li>
-
-  <li>
-    <table>
-      <tr>
-        <td style="width:50px; vertical-align:top;">
-          <img src="https://i.pinimg.com/736x/53/72/4d/53724d65a80a2b0800e75ec426a91bd7.jpg" width="50" height="50" style="object-fit:cover;">
-        </td>
-        <td style="padding-left:8px; vertical-align:top;">
-          <b>Luka(vocaloid/pjsk)</b><br>
-          <p></p>
-        </td>
-      </tr>
-    </table>
-  </li>
-</ul>
-
 <h2></h2>
 
 <table>
