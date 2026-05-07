@@ -23,7 +23,7 @@
         </td>
         <td style="padding-left:8px; vertical-align:top;">
           <b>Elliot (waapp, forsaken)</b><br>
-          <p>Fun fact: I'm lvl 175 on Elliot and have all his skins (except medic)!!</p>
+          <p>Fun fact: I'm lvl 200 on Elliot and have all his skins (except medic)!!</p>
         </td>
       </tr>
     </table>
@@ -37,7 +37,7 @@
         </td>
         <td style="padding-left:8px; vertical-align:top;">
           <b>Nosferatu(forsaken)</b><br>
-          <p>I have him ~lvl 120 and have all his skins!!</p>
+          <p>I have him ~lvl 160 and have all his skins!!</p>
         </td>
       </tr>
     </table>
