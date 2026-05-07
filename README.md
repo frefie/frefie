@@ -144,31 +144,3 @@
     </td>
   </tr>
 </table>
-<h2>Some ponies you might see me as!!</h2>
-<div style="white-space: nowrap;">
-  <span style="display:inline-block; width:120px; margin-right:5px;">
-    <img src="https://i.ibb.co/pvpx1H90/alien-Elliot-Forsaken.png" style="max-width:100%;">
-  </span>
-  <span style="display:inline-block; width:120px; margin-right:5px;">
-    <img src="https://i.ibb.co/pjYZSHLC/johndoe-Ponytown.png" style="max-width:100%;">
-  </span>
-  <span style="display:inline-block; width:120px; margin-right:5px;">
-    <img src="https://i.ibb.co/mVzHTBMW/007n7-Ponytown.png" style="max-width:100%;">
-  </span>
-  <span style="display:inline-block; width:120px; margin-right:5px;">
-    <img src="https://i.ibb.co/FqxgmGc6/twotime-Ponytown.png" style="max-width:100%;">
-  </span>
-  <span style="display:inline-block; width:120px; margin-right:5px;">
-    <img src="https://i.ibb.co/PvfW6kxv/1x-Ponytown.png" style="max-width:100%;">
-  </span>
-  <span style="display:inline-block; width:120px; margin-right:5px;">
-    <img src="https://i.ibb.co/VcYxy8ts/c00lkidd-Ponytown.png" style="max-width:100%;">
-  </span>
-  <span style="display:inline-block; width:120px; margin-right:5px;">
-    <img src="https://i.ibb.co/C52ytbFS/nosferatu-Ponytown.png" style="max-width:100%;">
-  </span>
-  <span style="display:inline-block; width:120px;">
-    <img src="https://i.ibb.co/Xr4fmbwq/spectre-Pony-Town.png" style="max-width:100%;">
-  </span>
-</div>
-<h1>go follow my friend bunhound once he gets his github account!!</h1>
